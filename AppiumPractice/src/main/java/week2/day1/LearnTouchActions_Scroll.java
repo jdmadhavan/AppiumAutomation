@@ -40,6 +40,7 @@ public class LearnTouchActions_Scroll {
 		
 		
 		
+		
 		TouchAction<?> action=new TouchAction<>(driver)
 				.press(PointOption.point(startX, startY))
 				.waitAction(WaitOptions.waitOptions(Duration.ofSeconds(6)))
