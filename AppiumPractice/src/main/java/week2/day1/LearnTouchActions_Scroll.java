@@ -33,6 +33,7 @@ public class LearnTouchActions_Scroll {
 		int startX=(int) (width*0.5);
 		int startY=(int) (hight*0.7);
 		
+		
 		int endX=(int) (width*0.5);
 		int endY=(int) (hight*0.2);
 		
